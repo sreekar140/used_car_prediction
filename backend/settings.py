@@ -135,7 +135,6 @@ MAILERS = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
-    "https://used-car-prediction-git-main-scam5.vercel.app"
+    "https://used-car-prediction-nine.vercel.app",
 ]
 
